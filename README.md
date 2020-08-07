@@ -1,12 +1,12 @@
 ### Hi there, I am Luis! 👋
 
-![**FOLLOW ME HERE!!!**](https://github.com/login?return_to=%2Fl1997i)
+[**FOLLOW ME HERE!!!**](https://github.com/login?return_to=%2Fl1997i)
 
 [![Luis's github stats](https://github-readme-stats.vercel.app/api?username=l1997i&show_icons=true)](https://git.l1997i.com)[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1997i&layout=compact)](https://git.l1997i.com)
 
 - 🔭 I’m currently working on **Telecommunication System, IoT, Artificial Intelligence**
 - 🌱 I’m currently learning **Convex Optimization**
-- 🍺 ORCID: ![https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
+- 🍺 ORCID: [https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
 
 <!--
 **l1997i/l1997i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
