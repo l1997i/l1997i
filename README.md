@@ -1,8 +1,6 @@
 ### Hi there, I am Luis! 👋
 
-[![Luis's github stats](https://github-readme-stats.vercel.app/api?username=l1997i)](https://git.l1997i.com)
-
-[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1997i)](https://git.l1997i.com)
+[![Luis's github stats](https://github-readme-stats.vercel.app/api?username=l1997i)](https://git.l1997i.com)[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1997i)](https://git.l1997i.com)
 
 <!--
 **l1997i/l1997i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
