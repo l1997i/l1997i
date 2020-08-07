@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Telecommunication System, IoT, Artificial Intelligence**
 - 🌱 I’m currently learning **Convex Optimization**
-- 🍺 ORCID: [https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
+- ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID: [https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
 
 <!--
 **l1997i/l1997i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
