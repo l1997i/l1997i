@@ -1,9 +1,9 @@
 ### Hi there, I am Luis! 👋
 
-[**FOLLOW ME HERE!!!**](https://github.com/login?return_to=%2Fl1997i)
 
 [![Luis's github stats](https://github-readme-stats.vercel.app/api?username=l1997i&show_icons=true)](https://git.l1997i.com)[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1997i&layout=compact)](https://git.l1997i.com)
 
+- ✍🏻 I'm currently the **Student Member** of [**IEEE**](https://www.ieee.org/)
 - 🔭 I’m currently working on **Telecommunication System, IoT, Artificial Intelligence**
 - 🌱 I’m currently learning **Convex Optimization**
 - ![](https://orcid.org/sites/default/files/images/orcid_16x16.png) [https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
