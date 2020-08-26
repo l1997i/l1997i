@@ -1,8 +1,8 @@
 ### Hi there, I am Luis (李 理)! 👋
 
-
 [![Luis's github stats](https://github-readme-stats.vercel.app/api?username=l1997i&show_icons=true)](https://git.l1997i.com)[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1997i&layout=compact)](https://git.l1997i.com)
 
+- 💁🏻 My Chinese name is ***Li Li*** (李 理), aka ****Luis***
 - ✍🏻 I'm currently the **Student Member** of [**IEEE**](https://www.ieee.org/)
 - 🔭 I’m currently working on **Telecommunication System, IoT, Artificial Intelligence**
 - 🌱 I’m currently learning **Convex Optimization**
