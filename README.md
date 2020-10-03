@@ -1,4 +1,4 @@
-### Hi there, I am Luis (李 理)! 👋
+### Hi there, I am Luis (李 理)! 👋 ![LinkedIn](https://static.licdn.cn/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png) [www.linkedin.com/in/luisli](https://www.linkedin.com/in/luisli)
 
 [![Luis's github stats](https://github-readme-stats.vercel.app/api?username=l1997i&show_icons=true)](https://git.l1997i.com)[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1997i&layout=compact)](https://git.l1997i.com)
 
@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on **Computer Vision, Artificial Intelligence**
 - 🌱 I’m currently learning **Visual Recognition, Convolutional Neural Networks and PyTorch**
 - ![ORCID ](https://orcid.org/sites/default/files/images/orcid_16x16.png) [https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
-- ![LinkedIn](https://static.licdn.cn/scds/common/u/images/logos/linkedin/logo_linkedin_93x21_v2.png) [www.linkedin.com/in/luisli](https://www.linkedin.com/in/luisli)
 
 <!--
 **l1997i/l1997i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
