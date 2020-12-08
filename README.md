@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Vision for all Weathers and Less Sensors**
 - ![ORCID ](https://orcid.org/sites/default/files/images/orcid_16x16.png) [https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
 
-My philosophy of life generally follows the following Python code,
+My philosophy of life generally follows the following `Python` code,
 
 ```python
 import perseverance, innovation, happiness
