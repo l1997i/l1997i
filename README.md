@@ -8,6 +8,19 @@
 - 🌱 I’m currently learning **Vision for all Weathers and Less Sensors**
 - ![ORCID ](https://orcid.org/sites/default/files/images/orcid_16x16.png) [https://orcid.org/0000-0002-9392-7862](https://orcid.org/0000-0002-9392-7862)
 
+My philosophy of life generally follows the following Python code,
+
+```python
+import perseverance, innovation, happiness
+while true:                      # perseverance
+  if isTired:                      
+    sleeping_and_eating()
+  else:
+    learning_and_studying()      # innovation
+    coding()
+    exercising_and_travelling()  # happiness
+```
+
 <!--
 **l1997i/l1997i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
