@@ -4,9 +4,9 @@
 
 - 💁🏻 My Chinese name is [***Li Li*** (李 理)](https://www.l1997i.com), aka [***Luis***](https://www.l1997i.com)
 - ✍🏻 I'm currently the **Student Member** of <a href="https://www.ieee.org/" target="_blank"><strong>IEEE</strong></a>
-- 🔭 I’m currently working on **Computer Vision on Autonumous Vehicles**
-- 🌱 I’m currently learning **LiDAR, ROS, Vision for all Weathers**
+- 🔭 I’m currently working on **geometric & semantic scene understanding** for **autonomous road vehicles**
 - ![ORCID ](https://orcid.org/sites/default/files/images/orcid_16x16.png) <a href="https://orcid.org/0000-0002-9392-7862" target="_blank">https://orcid.org/0000-0002-9392-7862</a>
+- 🌱 Feel free to grab some time with me for [an appointment](https://www.l1997i.com/appointment/) either online or in person
 
 My philosophy of life generally follows the following `Python` code,
 
