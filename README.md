@@ -1,4 +1,4 @@
-[![2EISDe.png](https://z3.ax1x.com/2021/05/30/2EISDe.png)](https://imgtu.com/i/2EISDe) ![](https://hit.yhype.me/github/profile?user_id=35445094)
+[![2EISDe.png](durham_pointcloud.png)](https://imgtu.com/i/2EISDe) ![](https://hit.yhype.me/github/profile?user_id=35445094)
 
 [![Luis's github stats](https://github-readme-stats.vercel.app/api?username=l1997i&show_icons=true)](https://git.l1997i.com)[![Luis Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1997i&layout=compact)](https://git.l1997i.com)
 
