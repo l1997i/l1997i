@@ -2,7 +2,7 @@
 
 Hey, thanks for stopping by! 👋
 
-- 💁🏻 My Chinese name is [***Li Li*** (李 理)](https://www.luisli.org), aka [***Luis***](https://www.luisli.org)
+- 💁🏻 My name is [***Li Li*** (李 理)](https://www.luisli.org), aka [***Luis***](https://www.luisli.org)
 - ✍🏻 I'm currently the **Student Member** of <a href="https://www.ieee.org/" target="_blank"><strong>IEEE</strong></a>/<a href="https://www.thecvf.com/" target="_blank"><strong>CVF</strong></a>
 - 🔭 I’m currently working on **geometric & semantic scene understanding** for **autonomous road vehicles**
 - ![ORCID ](https://orcid.org/sites/default/files/images/orcid_16x16.png) <a href="https://orcid.org/0000-0002-9392-7862" target="_blank">https://orcid.org/0000-0002-9392-7862</a>
