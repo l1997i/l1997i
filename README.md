@@ -8,7 +8,7 @@ Hey, thanks for stopping by! 👋
 - ![ORCID ](https://orcid.org/sites/default/files/images/orcid_16x16.png) <a href="https://orcid.org/0000-0002-9392-7862" target="_blank">https://orcid.org/0000-0002-9392-7862</a>
 - 🌱 Feel free to grab some time with me for [an appointment](https://www.l1997i.com/appointment/) either online or in person
 
-I am a PhD student in the [Department of Computer Science](https://www.durham.ac.uk/departments/academic/computer-science/) at [Durham University](https://www.dur.ac.uk), supervised by Prof [Toby Breckon](https://breckon.org/toby/) and Dr [Hubert P. H. Shum](http://hubertshum.com/). My research interests are **geometric & semantic scene understanding** for **autonomous road vehicles**. I'm currently the Student Member of [IEEE](https://www.ieee.org/)/[CVF](https://www.thecvf.com/).
+I am a PhD student in the [Department of Computer Science](https://www.durham.ac.uk/departments/academic/computer-science/) at [Durham University](https://www.dur.ac.uk), supervised by Prof [Toby Breckon](https://breckon.org/toby/) and Prof [Hubert P. H. Shum](http://hubertshum.com/). My research interests are **geometric & semantic scene understanding** for **autonomous road vehicles**. I'm currently the Student Member of [IEEE](https://www.ieee.org/)/[CVF](https://www.thecvf.com/).
 
 Prior to Durham, I received my bachelor's degree in Telecommunications Engineering at [Nanjing University of Science and Technology](https://www.njust.edu.cn) (NJUST) in 2020. In NJUST, I used to work on semantic scene understanding for UAVs and UGVs with Prof Hong Gu.
 
