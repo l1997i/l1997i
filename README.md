@@ -2,13 +2,15 @@
 
 Hey, thanks for stopping by! 👋
 
-I am a PhD researcher in the [Department of Computer Science](https://www.durham.ac.uk/departments/academic/computer-science/) at [Durham University](https://www.dur.ac.uk), supervised by Prof [Toby Breckon](https://breckon.org/toby/) and Prof [Hubert P. H. Shum](http://hubertshum.com/). My research interests are **geometric & semantic scene understanding** for **autonomous road vehicles**. I'm currently the Student Member of [IEEE](https://www.ieee.org/)/[CVF](https://www.thecvf.com/).
+I am a postdoctoral researcher in the [King's Laboratory for Intelligent Computing (KLIC)](https://sites.google.com/site/rajendranbipin/klic) at [King's College London](https://www.dur.ac.uk), working with Prof [Bipin Rajendran](https://sites.google.com/site/rajendranbipin/home). My research interest is on analog in-memory-computing (AIMC) and hardware acceleration algorithms for artificial intelligence.
+
+Before that, I was a PhD student in Computer Science at [Durham University](https://www.durham.ac.uk), supervised by Prof [Toby Breckon](https://breckon.org/toby/) and Prof [Hubert P. H. Shum](http://hubertshum.com/). My research pursues to propose 3D perception and semantic scene understanidng architectures based on Computer Vision and Deep Machine Learning. 
 
 Prior to Durham, I received my bachelor's degree in Telecommunications Engineering at [Nanjing University of Science and Technology](https://www.njust.edu.cn) (NJUST) in 2020. In NJUST, I used to work on semantic scene understanding for UAVs and UGVs with Prof Hong Gu.
 
-As an enthusiast of open source projects, I maintain and contribute to a number of open source repositories.
+As an enthusiast of open source projects, I maintain and contribute to a number of open source repositories <a class="github-button" href="https://github.com/l1997i" data-show-count="true" aria-label="Follow @l1997i on GitHub">Follow @l1997i</a>.
 
-I am incredibly thankful to my supervisors and collaborators, and enjoy exploring new domains through collaborations. If you have questions or would like to work together, please feel free to reach out through [email](mailto:li.li4@durham.ac.uk) or grab some time with me for [an appointment](https://www.luisli.org/appointment/) either online or in person.
+I am incredibly thankful to my supervisors and collaborators, and enjoy exploring new domains through collaborations. If you have questions or would like to work together, please feel free to reach out through [email](mailto:li.8.li@kcl.ac.uk) or grab some time with me for [an appointment](https://www.luisli.org/appointment/) either online or in person.
 
 <details>
   <summary align="right"><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
