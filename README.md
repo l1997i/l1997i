@@ -4,9 +4,9 @@ Hey, thanks for stopping by! 👋
 
 I am a postdoctoral researcher in the [King's Laboratory for Intelligent Computing (KLIC)](https://sites.google.com/site/rajendranbipin/klic) at [King's College London](https://www.dur.ac.uk), working with Prof [Bipin Rajendran](https://sites.google.com/site/rajendranbipin/home). My research interest is on analog in-memory-computing (AIMC) and hardware acceleration algorithms for artificial intelligence.
 
-Before that, I was a PhD student in Computer Science at [Durham University](https://www.durham.ac.uk), supervised by Prof [Toby Breckon](https://breckon.org/toby/) and Prof [Hubert P. H. Shum](http://hubertshum.com/). My research pursues to propose 3D perception and semantic scene understanidng architectures based on Computer Vision and Deep Machine Learning. 
+Before that, I completed my PhD in Computer Science at [Durham University](https://www.durham.ac.uk), supervised by Prof [Toby Breckon](https://breckon.org/toby/) and Prof [Hubert P. H. Shum](http://hubertshum.com/). My research pursues to better 3D perception and semantic scene understanidng architectures based on Computer Vision and Deep Machine Learning. I was awarded as the runner-up for the 2024 [BMVA Sullivan Doctoral Thesis Prize](https://www.bmva.org/bursaries/sullivan-prize) in recognition of my contributions to computer vision research in the UK.
 
-Prior to Durham, I received my bachelor's degree in Telecommunications Engineering at [Nanjing University of Science and Technology](https://www.njust.edu.cn) (NJUST) in 2020. In NJUST, I used to work on semantic scene understanding for UAVs and UGVs with Prof Hong Gu.
+Prior to Durham, I received my bachelor's degree in Telecommunications Engineering at [Nanjing University of Science and Technology](https://www.njust.edu.cn) (NJUST) in 2020. In NJUST, I worked on semantic scene understanding for UAVs and UGVs with Prof Hong Gu.
 
 As an enthusiast of open source projects, I maintain and contribute to a number of open source repositories <a class="github-button" href="https://github.com/l1997i" data-show-count="true" aria-label="Follow @l1997i on GitHub">Follow @l1997i</a>.
 
@@ -125,4 +125,4 @@ O2LdyCNSTvydpqH3mRTmNikoURAOBQPdLY9B2BtKCR99yY7r7LWV5YQiiw==
 
 [![](https://img.shields.io/badge/My%20Homepage-%23E2231A.svg?&style=flat-square&logo=homepage&logoColor=white)](https://www.luisli.org)
 [![](https://img.shields.io/badge/ORCID-%23009639.svg?&style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9392-7862)
-[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=-VsdK2xwAAAAJ&hl=en)
+[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=VsdK2xwAAAAJ)
